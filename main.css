@@ -1,0 +1,14 @@
+/* link to Fonts */
+
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+/* Beginning of styling */
+
+/* gets rid of defalt settings of browsers */
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
