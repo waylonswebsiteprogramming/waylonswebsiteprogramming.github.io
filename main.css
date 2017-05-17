@@ -2,8 +2,6 @@
 
 @import url('https://fonts.googleapis.com/css?family=Lobster');
 
-/* Beginning of styling */
-
 /* gets rid of defalt settings of browsers */
 
 html, body {
@@ -11,4 +9,13 @@ html, body {
     padding: 0;
     height: 100%;
     width: 100%;
+}
+
+/* Beginning of styling */
+
+.intro {
+    height: 100%;
+    width: 100%;
+    margin: auto; 
+    background: url("https://static.pexels.com/photos/2620...")
 }
